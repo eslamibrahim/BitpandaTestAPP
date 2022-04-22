@@ -1,0 +1,6 @@
+framework module Pods_BitpandaTestAPP_BitpandaTestAPPUITests {
+  umbrella header "Pods-BitpandaTestAPP-BitpandaTestAPPUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
